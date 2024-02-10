@@ -1,8 +1,8 @@
-# leetcode
+# Leetcode
 
-Repository for leetcode problems.
+This is a collection of solutions to problems from [LeetCode](https://leetcode.com/).
 
-To install dependencies:
+## Installation
 
 ```bash
 bun install
