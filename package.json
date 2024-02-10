@@ -1,6 +1,6 @@
 {
   "name": "leetcode",
-  "module": "index.ts",
+  "description": "LeetCode solutions in TypeScript",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
