@@ -3,3 +3,8 @@ type TreeNode = {
   left: TreeNode | null
   right: TreeNode | null
 }
+
+type ListNode = {
+  val: number
+  next: ListNode | null
+}
